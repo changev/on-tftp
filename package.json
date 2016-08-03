@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/RackHD/on-tftp.git"
+    "url": "https://github.com/changev/on-tftp.git"
   },
   "keywords": [
     "tftp"
@@ -19,7 +19,7 @@
     "di": "git+https://github.com/RackHD/di.js.git",
     "lodash": "^2.4.1",
     "tftp": "^0.1.2",
-    "on-core": "git+https://github.com/RackHD/on-core.git"
+    "on-core": "git+https://github.com/changev/on-core.git"
   },
   "devDependencies": {
     "chai": "^2.0.0",
